@@ -1,0 +1,53 @@
+# Mohammed Fakhri
+
+> Mohammed Fakhri is a software developer based in Iraq, working as a Full-stack Developer at QiCard, with 7+ years of hands-on experience designing, developing, and implementing applications, mainly with C#, .NET, and ASP.NET.
+
+Mohammed's work centres on full-stack and back-end web development on the Microsoft stack (.NET Core, .NET Framework, ASP.NET MVC, ASP.NET Web API, SQL Server). Past roles have covered requirements analysis, technical documentation, system design, and leading and mentoring development teams. Education includes a bachelor's degree in computer science from the University of Baghdad and an MBA in progress at Quantic School of Business and Technology.
+
+Mohammed combines engineering depth with business training, which suits roles that sit between technology and the business: technical lead, solution architect, product-minded senior developer, or tech business roles. Experience already includes working with senior stakeholders to turn business requirements into technical specifications (Global Carrier), analysing requirements and estimating effort with agile methods (EarthLink Telecommunications), and leading and mentoring a development team. The MBA adds formal training in strategy, management, and business decision-making, so technical choices can be weighed against cost, value, and business goals, and explained clearly to non-technical decision makers.
+
+## Profile
+
+- [LinkedIn profile](https://www.linkedin.com/in/mohammed-fakhri-463054134): Headline "Software Developer"; located in Iraq; 500+ connections.
+- [About](https://www.linkedin.com/in/mohammed-fakhri-463054134): Full Stack Developer with 7+ years of experience, seeking a challenging Full-stack Developer role.
+
+## Experience
+
+- [Full-stack Developer, QiCard](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/experience/): Full-time, Mar 2025 to present. .NET Core, .NET Framework, ASP.NET Core, E-Commerce.
+- [Software Developer, Creative Advanced Technologies](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/experience/): Full-time, May 2023 to Dec 2024; Dubai, UAE (remote). Redis, Agile methodologies.
+- [Software Developer, EarthLink Telecommunications](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/experience/): Full-time, May 2022 to May 2023; Baghdad, Iraq (remote). Requirements analysis, technical documentation, agile estimation, design patterns, troubleshooting, and onboarding new team members.
+- [Lead Software Developer, Global Carrier](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/experience/): Full-time, Jul 2021 to Jun 2022; Baghdad, Iraq. Turned business requirements into technical specifications, directed the development team, led code reviews, and mentored junior developers.
+- [.NET Developer, DELTA DIJLH](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/experience/): Full-time, Aug 2021 to Jan 2022; Baghdad, Iraq. Client- and server-side architecture, front-end builds, databases, and APIs with C# and .NET Framework.
+- [Full Stack Web Developer, ALHADI SOFTWARE](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/experience/): Full-time, Sep 2020 to Aug 2021; Baghdad, Iraq. Front-end and back-end web development and maintenance of company apps with ASP.NET MVC and ASP.NET Web API.
+- [Software Engineer (Intern), Enjaz LLC.](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/experience/): Internship, Oct 2020 to Dec 2020; Baghdad, Iraq. Databases and software systems engineering.
+- [Web Developer, Freelance](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/experience/): Jan 2018 to Jul 2019. JavaScript, PHP, Laravel.
+
+## Skills
+
+- [.NET and C#](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/skills/): C#, .NET Core, .NET Framework, ASP.NET Core, ASP.NET MVC, ASP.NET Web API. Passed LinkedIn Skill Assessments in C# and .NET Framework.
+- [Web development](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/skills/): Back-end and front-end web development, JavaScript, AJAX, Node.js, PHP (passed LinkedIn Skill Assessment), Laravel, E-Commerce.
+- [Data](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/skills/): Microsoft SQL Server, MySQL, Redis, databases.
+- [Engineering practice](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/skills/): Object-oriented programming, test-driven development, SDLC, Agile methodologies, software engineering practices, software systems engineering, operating systems.
+- [Requirements and leadership](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/skills/): Requirements analysis, requirements gathering, software requirements, team leadership.
+
+## Projects
+
+- [Projects](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/projects/): No projects are listed on the LinkedIn profile yet.
+
+## Education
+
+Mohammed is studying for an MBA in Business Administration and Management at Quantic School of Business and Technology, a US business school, starting in February 2026. It adds business and management training to a computer science degree and 7+ years of software development.
+
+- [Master of Business Administration (MBA), Quantic School of Business and Technology](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/education/): Business Administration and Management, General; Feb 2026 to present.
+- [Bachelor's degree in Computer Science, University of Baghdad](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/education/): Jan 2018 to Aug 2021.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/mohammed-fakhri-463054134): Main professional profile.
+- [Email](mailto:mohammed.fakhri.98j@gmail.com): mohammed.fakhri.98j@gmail.com
+
+## Optional
+
+- [Full Stack Developer Track, Udacity](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/certifications/): Certification issued Nov 2018.
+- [MTCNA, MikroTik](https://www.linkedin.com/in/mohammed-fakhri-463054134/details/certifications/): Certification issued Aug 2018, expired Feb 2022.
+- [Open to work](https://www.linkedin.com/in/mohammed-fakhri-463054134): Open to work in any location; on-site, hybrid, or remote.

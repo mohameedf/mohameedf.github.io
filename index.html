@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mohammed Fakhri · Full-stack .NET Developer</title>
+<meta name="description" content="Mohammed Fakhri, Full-stack Developer at QiCard with 7+ years of experience building web applications with C#, .NET and ASP.NET.">
+<link rel="canonical" href="https://mohameedf.github.io/">
+
+<!-- For AI tools: a plain-text summary of this site (llmstxt.org). Not shown to visitors. -->
+<link rel="alternate" type="text/markdown" title="llms.txt" href="/llms.txt">
+
+<meta property="og:title" content="Mohammed Fakhri · Full-stack .NET Developer">
+<meta property="og:description" content="Full-stack Developer with 7+ years of experience in C#, .NET and ASP.NET.">
+<meta property="og:type" content="profile">
+<meta property="og:url" content="https://mohameedf.github.io/">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Mohammed Fakhri",
+  "jobTitle": "Full-stack Developer",
+  "worksFor": { "@type": "Organization", "name": "QiCard" },
+  "address": { "@type": "PostalAddress", "addressCountry": "IQ" },
+  "alumniOf": { "@type": "CollegeOrUniversity", "name": "University of Baghdad" },
+  "email": "mailto:mohammed.fakhri.98j@gmail.com",
+  "url": "https://mohameedf.github.io/",
+  "sameAs": ["https://www.linkedin.com/in/mohammed-fakhri-463054134"],
+  "knowsAbout": ["C#", ".NET Core", "ASP.NET Core", "ASP.NET MVC", "ASP.NET Web API", "Microsoft SQL Server", "Redis", "JavaScript", "Node.js", "PHP", "Laravel"]
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --bg: #fbfaf8;
+    --surface: #ffffff;
+    --text: #1c1b19;
+    --muted: #6b6862;
+    --line: #e7e4de;
+    --accent: #2f5bd3;
+    --chip: #f1efeb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #121214;
+      --surface: #1a1a1d;
+      --text: #ecebe8;
+      --muted: #a09d97;
+      --line: #2b2b2f;
+      --accent: #7c9cff;
+      --chip: #232327;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #121214; --surface: #1a1a1d; --text: #ecebe8; --muted: #a09d97;
+    --line: #2b2b2f; --accent: #7c9cff; --chip: #232327;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.6 Inter, system-ui, -apple-system, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 0 16px; }
+
+  header { padding: 72px 0 40px; }
+  .eyebrow { color: var(--muted); font-size: 14px; letter-spacing: .02em; margin: 0 0 12px; }
+  h1 { font-size: clamp(34px, 6vw, 48px); line-height: 1.1; margin: 0 0 12px; letter-spacing: -.02em; }
+  .role { font-size: 20px; color: var(--muted); margin: 0 0 24px; }
+  .lead { font-size: 18px; max-width: 60ch; margin: 0 0 28px; }
+  .actions { display: flex; flex-wrap: wrap; gap: 10px; }
+  .btn {
+    display: inline-block; padding: 10px 18px; border-radius: 999px;
+    border: 1px solid var(--line); background: var(--surface); color: var(--text);
+    font-weight: 500; font-size: 15px;
+  }
+  .btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .btn:hover { text-decoration: none; filter: brightness(.97); }
+
+  section { padding: 36px 0; border-top: 1px solid var(--line); }
+  h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 0 0 20px; font-weight: 600; }
+
+  .job { display: grid; grid-template-columns: 150px 1fr; gap: 4px 24px; padding: 14px 0; }
+  .job + .job { border-top: 1px dashed var(--line); }
+  .when { color: var(--muted); font-size: 14px; padding-top: 2px; }
+  .title { font-weight: 600; margin: 0; }
+  .org { color: var(--muted); margin: 0 0 6px; font-size: 15px; }
+  .desc { margin: 0; font-size: 15px; }
+  @media (max-width: 560px) {
+    .job { grid-template-columns: 1fr; }
+  }
+
+  .skills { display: grid; gap: 18px; }
+  .skill-group h3 { font-size: 15px; margin: 0 0 8px; font-weight: 600; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
+  .chips li { background: var(--chip); border-radius: 8px; padding: 4px 10px; font-size: 14px; }
+  .chips li.badge::after { content: " ✓"; color: var(--accent); font-weight: 600; }
+  .note { color: var(--muted); font-size: 14px; margin: 14px 0 0; }
+
+  .list { margin: 0; padding: 0; list-style: none; }
+  .list li { padding: 8px 0; }
+  .list strong { font-weight: 600; }
+  .list span { color: var(--muted); }
+
+  footer { padding: 40px 0 64px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <p class="eyebrow">Iraq · Open to work anywhere · On-site, hybrid or remote</p>
+    <h1>Mohammed Fakhri</h1>
+    <p class="role">Full-stack Developer at QiCard</p>
+    <p class="lead">I've spent 7+ years designing, building and shipping web applications, mostly on the Microsoft stack: C#, .NET, ASP.NET and SQL Server. I've worked across the whole stack, from requirements and system design to leading and mentoring development teams.</p>
+    <div class="actions">
+      <a class="btn primary" href="https://www.linkedin.com/in/mohammed-fakhri-463054134" target="_blank" rel="noopener">LinkedIn</a>
+      <a class="btn" href="mailto:mohammed.fakhri.98j@gmail.com">Email me</a>
+    </div>
+  </header>
+
+  <section id="experience">
+    <h2>Experience</h2>
+
+    <div class="job">
+      <div class="when">Mar 2025 – Present</div>
+      <div>
+        <p class="title">Full-stack Developer</p>
+        <p class="org">QiCard · Full-time</p>
+        <p class="desc">.NET Core, .NET Framework, ASP.NET Core and e-commerce.</p>
+      </div>
+    </div>
+
+    <div class="job">
+      <div class="when">May 2023 – Dec 2024</div>
+      <div>
+        <p class="title">Software Developer</p>
+        <p class="org">Creative Advanced Technologies · Dubai, UAE · Remote</p>
+        <p class="desc">Redis and Agile delivery.</p>
+      </div>
+    </div>
+
+    <div class="job">
+      <div class="when">May 2022 – May 2023</div>
+      <div>
+        <p class="title">Software Developer</p>
+        <p class="org">EarthLink Telecommunications · Baghdad · Remote</p>
+        <p class="desc">Requirements analysis, technical documentation, agile estimation, design patterns, root-cause troubleshooting and onboarding new team members.</p>
+      </div>
+    </div>
+
+    <div class="job">
+      <div class="when">Jul 2021 – Jun 2022</div>
+      <div>
+        <p class="title">Lead Software Developer</p>
+        <p class="org">Global Carrier · Baghdad</p>
+        <p class="desc">Turned business requirements into technical specifications, directed the development team, led code reviews and mentored junior developers.</p>
+      </div>
+    </div>
+
+    <div class="job">
+      <div class="when">Aug 2021 – Jan 2022</div>
+      <div>
+        <p class="title">.NET Developer</p>
+        <p class="org">DELTA DIJLH · Baghdad</p>
+        <p class="desc">Client- and server-side architecture, front-end builds, databases and APIs with C# and .NET Framework.</p>
+      </div>
+    </div>
+
+    <div class="job">
+      <div class="when">Sep 2020 – Aug 2021</div>
+      <div>
+        <p class="title">Full Stack Web Developer</p>
+        <p class="org">ALHADI SOFTWARE · Baghdad</p>
+        <p class="desc">Front-end and back-end web development and maintenance of company apps with ASP.NET MVC and Web API.</p>
+      </div>
+    </div>
+
+    <div class="job">
+      <div class="when">Oct 2020 – Dec 2020</div>
+      <div>
+        <p class="title">Software Engineer (Intern)</p>
+        <p class="org">Enjaz LLC. · Baghdad</p>
+        <p class="desc">Databases and software systems engineering.</p>
+      </div>
+    </div>
+
+    <div class="job">
+      <div class="when">Jan 2018 – Jul 2019</div>
+      <div>
+        <p class="title">Web Developer</p>
+        <p class="org">Freelance</p>
+        <p class="desc">JavaScript, PHP and Laravel.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <div class="skills">
+      <div class="skill-group">
+        <h3>.NET &amp; C#</h3>
+        <ul class="chips">
+          <li class="badge">C#</li><li>.NET Core</li><li class="badge">.NET Framework</li>
+          <li>ASP.NET Core</li><li>ASP.NET MVC</li><li>ASP.NET Web API</li>
+        </ul>
+      </div>
+      <div class="skill-group">
+        <h3>Web</h3>
+        <ul class="chips">
+          <li>Back-end development</li><li>Front-end development</li><li>JavaScript</li>
+          <li>AJAX</li><li>Node.js</li><li class="badge">PHP</li><li>Laravel</li><li>E-commerce</li>
+        </ul>
+      </div>
+      <div class="skill-group">
+        <h3>Data</h3>
+        <ul class="chips">
+          <li>Microsoft SQL Server</li><li>MySQL</li><li>Redis</li>
+        </ul>
+      </div>
+      <div class="skill-group">
+        <h3>Practice &amp; leadership</h3>
+        <ul class="chips">
+          <li>OOP</li><li>Test-driven development</li><li>SDLC</li><li>Agile</li>
+          <li>Requirements analysis</li><li>Team leadership</li>
+        </ul>
+      </div>
+    </div>
+    <p class="note">✓ Passed LinkedIn Skill Assessment</p>
+  </section>
+
+  <section id="education">
+    <h2>Education &amp; certifications</h2>
+    <p class="desc" style="margin:0 0 18px; max-width:60ch;">I'm studying for an MBA at Quantic School of Business and Technology, a US business school, in Business Administration and Management. I started in February 2026. It builds on my computer science degree and my years of software work, giving me the business side to match the technical side: strategy, management and leading teams.</p>
+    <p class="desc" style="margin:0 0 18px; max-width:60ch;"><strong>Why it matters for a business:</strong> I already work where tech meets the business. I've turned stakeholders' business requirements into technical specifications, estimated effort for agile teams, and led and mentored developers. The MBA adds strategy, management and business decision-making, so I can weigh technical choices against cost, value and business goals, and explain them clearly to non-technical decision makers. That fits technical lead, solution architect and tech business roles.</p>
+    <ul class="list">
+      <li><strong>MBA</strong>, Quantic School of Business and Technology <span>· Feb 2026 – Present</span></li>
+      <li><strong>BSc Computer Science</strong>, University of Baghdad <span>· 2018 – 2021</span></li>
+      <li><strong>Full Stack Developer Track</strong>, Udacity <span>· 2018</span></li>
+      <li><strong>MTCNA</strong>, MikroTik <span>· 2018</span></li>
+    </ul>
+  </section>
+
+  <footer>
+    © 2026 Mohammed Fakhri ·
+    <a href="https://www.linkedin.com/in/mohammed-fakhri-463054134" target="_blank" rel="noopener">LinkedIn</a> ·
+    <a href="mailto:mohammed.fakhri.98j@gmail.com">mohammed.fakhri.98j@gmail.com</a>
+  </footer>
+
+</div>
+</body>
+</html>
